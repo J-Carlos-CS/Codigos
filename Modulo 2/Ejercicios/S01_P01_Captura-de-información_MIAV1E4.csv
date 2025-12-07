@@ -1,0 +1,30 @@
+Nombre;Genero;Edad;Peso;Altura;Conocimiento_BigData;Conocimiento_SIG;Habilidad_programacion;Conocimiento_lenguajes;Dominio_lenguaje_programacion;Entorno_de_preferencia;Nivel_en_python;Nivel_en_collab;Ciudad
+Persona 1;Masculino;26;100;1.82;Medio;Medio;Avanzado;Python-C++-C#-Otros;Python;Visual Studio Code;Intermedio;Avanzado;Santa Cruz
+Persona 2;Masculino;42;83;1.69;Nulo;Bajo;Intermedio;JavaScript-PHP-Otros;PHP;Otro;B sico;B sico;Santa Cruz
+Persona 3;Masculino;37;95;1.80;Bajo;Bajo;Intermedio;Python-JavaScript-PHP;PHP;Visual Studio Code;Intermedio;B sico;Sucre
+Persona 4;Masculino;39;84;1.73;Nulo;Bajo;B sico;Python-C#;Python;Visual Studio Code;B sico;Nullo;Santa Cruz
+Persona 5;Masculino;33;80;1.68;Bajo;Bajo;Avanzado;Python-JavaScript-C#-PHP;JavaScript;Visual Studio Code;Nullo;Nullo;Santa Cruz
+Persona 6;Masculino;29;90;1.87;Medio;Bajo;Intermedio;Python-PHP-Otros;Otro;Visual Studio Code;B sico;Intermedio;Santa Cruz
+Persona 7;Masculino;29;95;1.72;Medio;Nulo;Avanzado;Python-JavaScript-PHP-Otros;Otro;Jetbrains;Intermedio;Intermedio;Santa Cruz
+Persona 8;Masculino;29;75;1.69;Bajo;Bajo;Intermedio;Python-JavaScript-C#-Otros;Otro;Visual Studio Code;B sico;B sico;Santa Cruz
+Persona 9;Masculino;47;80;1.65;Bajo;Medio;Avanzado;Python-JavaScript-C++-C#-PHP-Otros;Python;Visual Studio Code;Avanzado;Intermedio;Santa Cruz
+Persona 10;Masculino;25;70;1.80;Medio;Medio;Intermedio;Python-JavaScript-C#;Python;Jetbrains;Intermedio;Intermedio;Santa Cruz
+Persona 11;Masculino;36;78;1.70;Medio;Medio;Intermedio;Python-JavaScript;JavaScript;Visual Studio Code;B sico;B sico;Cochabamba
+Persona 12;Masculino;28;63;1.78;Medio;Bajo;Avanzado;Python-C++-PHP-Otros;Otro;Intelligent IDE;B sico;B sico;Santa Cruz
+Persona 13;Masculino;36;110;1.72;Bajo;Nulo;Intermedio;Python-JavaScript-C#-Otros;C#;Pycharm;B sico;B sico;Cochabamba
+Persona 14;Masculino;25;73;1.70;Nulo;Bajo;B sico;Python-PHP-Otros;PHP;Visual Studio Code;B sico;B sico;Santa Cruz
+Persona 15;Masculino;35;90;1.70;Medio;Bajo;Avanzado;Python-JavaScript-C#-PHP-Otros;C#;Visual Studio Code;Intermedio;B sico;Santa Cruz
+Persona 16;Masculino;23;70;1.79;Nulo;Nulo;Intermedio;Python-C#-PHP;Python;Visual Studio Code;B sico;B sico;Santa Cruz
+Persona 17;Masculino;25;80;180;Bajo;Nulo;Avanzado;JavaScript-C#;C#;Visual .net;Intermedio;Intermedio;Cochabamba
+Persona 18;Femenino;26;57;172;Medio;Bajo;Intermedio;Python-JavaScript-C#-PHP;C#;Visual Studio Code;B sico;Intermedio;Santa Cruz
+Persona 19;Masculino;27;72;1.70;Medio;Medio;Avanzado;Python-PHP-Otros;Otro;Visual Studio Code;Avanzado;Avanzado;Santa Cruz
+Persona 20;Masculino;50;70;1.71;Bajo;Bajo;Intermedio;Python;Ninguno;Visual Studio Code;Intermedio;B sico;Otra ciudad dentro del un departamento
+Persona 21;Masculino;34;80;1.83;Bajo;Bajo;Avanzado;Python-JavaScript-C#-PHP-Otros;Otro;Visual Studio Code;Intermedio;Intermedio;Santa Cruz
+Persona 22;Masculino;29;88;1.73;Bajo;Bajo;Intermedio;Python-JavaScript-C++-C#-Object pascal-PHP;C#;Visual .net;B sico;B sico;Santa Cruz
+Persona 23;Masculino;49;70;161;Bajo;Bajo;Intermedio;Otros;Otro;Visual .net;Nullo;B sico;Otra ciudad dentro del un departamento
+Persona 24;Masculino;48;95;1.80;Bajo;Bajo;Intermedio;Python-C++-C#-Otros;Otro;Java;Intermedio;B sico;Santa Cruz
+Persona 25;Masculino;28;80;177;Bajo;Bajo;Intermedio;Python-JavaScript-C#-PHP-Otros-Ninguno;PHP;Visual Studio Code;Intermedio;Intermedio;Santa Cruz
+Persona 26;Masculino;41;68;1.69;Bajo;Bajo;Avanzado;Python-JavaScript-C#-PHP-Otros;PHP;Visual Studio Code;B sico;B sico;Santa Cruz
+Persona 27;Masculino;30;70;1.65;Bajo;Bajo;Avanzado;C#-Otros;Otro;Pycharm;B sico;B sico;La Paz
+Persona 28;Masculino;25;70;1.67;Bajo;Medio;Intermedio;Python-JavaScript-C++-C#-Object pascal-PHP;PHP;Visual Studio Code;Intermedio;Intermedio;Sucre
+Persona 29;Masculino;37;57;1.67;Bajo;Bajo;B sico;Python-JavaScript-PHP-Otros;Otro;Java;B sico;B sico;Cochabamba
